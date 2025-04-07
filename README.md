@@ -17,7 +17,7 @@ This application implements a simple calculator that maintains a result value an
 - `increment`: Increases the result value by 1
 - `decrement`: Decreases the result value by 1
 - `double`: Doubles the result value
-- `randadd`: Changes the result by a random number between -10 and 10
+- `randadd`: Changes the result by a random number between 1 and 10
 - `undo`: Reverts the most recent command that is not an undo and was not yet undone
 - `exit`: Terminates the program
 
