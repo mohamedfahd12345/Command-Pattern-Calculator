@@ -89,3 +89,8 @@ Enter command (increment, decrement, double, randadd, undo, exit): exit
 
 - **Command Pattern**: Encapsulates operations as objects
 - **Factory Pattern**: Creates command instances based on user input
+
+## Class Diagram
+
+![Class Diagram](https://raw.githubusercontent.com/mohamedfahd12345/Command-Pattern-Calculator/refs/heads/main/Untitled%20Diagram.drawio.png)
+
