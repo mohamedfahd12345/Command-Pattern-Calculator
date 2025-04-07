@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CommandPatternConsoleApp/1.0.0": {
+        "dependencies": {
+          "CommandPatternLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CommandPatternConsoleApp.dll": {}
+        }
+      },
+      "CommandPatternLibrary/1.0.0": {
+        "runtime": {
+          "CommandPatternLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CommandPatternConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandPatternLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

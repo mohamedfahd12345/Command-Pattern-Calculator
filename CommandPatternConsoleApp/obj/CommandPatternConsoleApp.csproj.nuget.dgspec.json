@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternConsoleApp\\CommandPatternConsoleApp.csproj": {}
+  },
+  "projects": {
+    "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternConsoleApp\\CommandPatternConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternConsoleApp\\CommandPatternConsoleApp.csproj",
+        "projectName": "CommandPatternConsoleApp",
+        "projectPath": "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternConsoleApp\\CommandPatternConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternLibrary\\CommandPatternLibrary.csproj": {
+                "projectPath": "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternLibrary\\CommandPatternLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternLibrary\\CommandPatternLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternLibrary\\CommandPatternLibrary.csproj",
+        "projectName": "CommandPatternLibrary",
+        "projectPath": "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternLibrary\\CommandPatternLibrary.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "F:\\Mohamed Fahd - FOLDER\\Coures\\task\\CommandPatternLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.428\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
